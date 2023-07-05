@@ -1,6 +1,0 @@
-timm
-opencv-python
-pyqt5
-tqdm
-tqdm
-pillow
